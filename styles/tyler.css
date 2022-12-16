@@ -8,6 +8,14 @@
     font-family: FredokaOne;
  }
 
+ a {
+    color: blue;
+ }
+
+ a:hover {
+    color: rgb(73, 73, 199);
+ }
+
  h1 {
     text-align: center;
     padding: 5vh 0;
